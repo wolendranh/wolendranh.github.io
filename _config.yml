@@ -3,7 +3,7 @@ description: small tech blog
 meta_description: "tech and fun"
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
