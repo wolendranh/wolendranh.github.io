@@ -2,7 +2,9 @@
 layout: post
 title:  "Python digest #8"
 date:   2016-08-10 10:53:00
-disqus: true
+disqus: false
+comments: false
+fbcomments: true
 
 categories: Intro
 ---

@@ -3,8 +3,9 @@ layout: post
 title:  "Hello fuckers!"
 date:   2013-11-10 10:18:00
 categories: Thriller Comedy Horror
-disqus: true
-comments: true
+disqus: false
+comments: false
+fbcomments: true
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
