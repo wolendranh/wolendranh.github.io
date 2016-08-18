@@ -13,37 +13,43 @@ Experimental digest posted here for all developers interested in some stuff goin
 Python community and all related topics
 
 
-**News:**
+### News:
 
-[PyPy gets funding from Mozilla for Python 3.5 support](https://morepypy.blogspot.nl/2016/08/pypy-gets-funding-from-mozilla-for.html)
+#####  [PyPy gets funding from Mozilla for Python 3.5 support](https://morepypy.blogspot.nl/2016/08/pypy-gets-funding-from-mozilla-for.html)
+cool news from Firefox
 
-[Python 3 on Google App Engine flexible environment now in beta](https://cloudplatform.googleblog.com/2016/08/python-3-on-Google-App-Engine-flexible-environment-now-in-beta.html)
 
-[The 10 Algorithms Machine Learning Engineers Need to Know](https://gab41.lab41.org/the-10-algorithms-machine-learning-engineers-need-to-know-f4bb63f5b2fa#.yxayzqpae)
+##### [Python 3 on Google App Engine flexible environment now in beta](https://cloudplatform.googleblog.com/2016/08/python-3-on-Google-App-Engine-flexible-environment-now-in-beta.html)
+the beta release of the Python runtime on App Engine Flexible Environment with support for Python 3.4 and 2.7 was announced 
 
-[Preview the Python Serverless Microframework for AWS](https://aws.amazon.com/blogs/developer/preview-the-python-serverless-microframework-for-aws/)
+##### [The 10 Algorithms Machine Learning Engineers Need to Know](https://gab41.lab41.org/the-10-algorithms-machine-learning-engineers-need-to-know-f4bb63f5b2fa#.yxayzqpae) 
 
-**New versions:**
+##### [Preview the Python Serverless Microframework for AWS](https://aws.amazon.com/blogs/developer/preview-the-python-serverless-microframework-for-aws/)
+This three-minute video shows how quickly you can start building serverless APIs using the framework and its command-line tool
 
-[MicroPython 1.8.3](https://github.com/micropython/micropython/releases/tag/v1.8.3)
 
-[Django 1.10 released](https://www.djangoproject.com/weblog/2016/aug/01/django-110-released/)
+### New versions:
 
-**Interesting libraries:**
+##### [MicroPython 1.8.3](https://github.com/micropython/micropython/releases/tag/v1.8.3)
 
-[TQDM](https://tqdm.github.io/)
+##### [Django 1.10 released](https://www.djangoproject.com/weblog/2016/aug/01/django-110-released/)
+The Django team is happy to announce the release of Django 1.10.
 
-[Research](https://github.com/commaai/research)
+### Interesting libraries:
 
-[PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot)
+##### [TQDM](https://tqdm.github.io/)
 
-[Wooey](https://github.com/wooey/Wooey)
+##### [Research](https://github.com/commaai/research)
 
-[Albatross](https://github.com/kespindler/albatross)
+##### [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot)
 
-[PINCE](https://github.com/korcankaraokcu/PINCE)
+##### [Wooey](https://github.com/wooey/Wooey)
 
-**PEP’s:**
+##### [Albatross](https://github.com/kespindler/albatross)
+
+##### [PINCE](https://github.com/korcankaraokcu/PINCE)
+
+### PEP’s:
 
 [PEP 628 -- Add math.tau](https://www.python.org/dev/peps/pep-0628/) accepted
 
@@ -51,7 +57,7 @@ Python community and all related topics
 
 [PEP 525 -- Asynchronous Generators](https://www.python.org/dev/peps/pep-0525/)
 
-**Articles/Recourse's**
+### Articles/Recourse's
 
 [A Container Is A Function Call](https://glyph.twistedmatrix.com/2016/08/defcontainer.html)
 
@@ -93,7 +99,7 @@ Python community and all related topics
 
 [Learn Python online – A curated list of courses on Python](http://bafflednerd.com/learn-python-online/)
 
-**Video:**
+### Video:
 
 [MicroPython: a journey from Kickstarter to Space](https://www.youtube.com/watch?v=Zm08hXeuv-I)
 
