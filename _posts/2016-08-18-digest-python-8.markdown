@@ -13,8 +13,11 @@ categories: Intro
 Experimental digest posted here for all developers interested in some stuff going around
 Python community and all related topics
 
+* * *
 
 ### News:
+
+* * *
 
 ##### [PyVideo is back!](http://pyvideo.org/)
 Previosly closed on of the biggest python related video site is back
@@ -29,8 +32,11 @@ the beta release of the Python runtime on App Engine Flexible Environment with s
 ##### [Preview the Python Serverless Microframework for AWS](https://aws.amazon.com/blogs/developer/preview-the-python-serverless-microframework-for-aws/)
 This three-minute video shows how quickly you can start building serverless APIs using the framework and its command-line tool
 
+* * *
 
 ### New versions:
+
+* * *
 
 ##### [Python 3.6.0 alpha 4 preview release is now available](http://blog.python.org/2016/08/python-360-alpha-4-preview-release-is.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+PythonInsider+%28Python+Insider%29)
 also [here](https://www.python.org/downloads/release/python-360a4/) are some release notes
@@ -46,7 +52,11 @@ Python for microcontrollers and constrained systems new version released
 The Django team is happy to announce the release of Django 1.10.
 release [notes](https://docs.djangoproject.com/en/1.10/releases/1.10/)
 
+* * *
+
 ### Interesting libraries:
+
+* * *
 
 ##### [codi.vim](https://github.com/metakirby5/codi.vim)
 The interactive scratchpad for hackers.
@@ -82,7 +92,11 @@ another Python 3.5 async framework. Benchmarks that aithor did says that "benchm
 ##### [PINCE](https://github.com/korcankaraokcu/PINCE)
 gdb front-end/reverse engineering tool focused on games
 
+* * *
+
 ### PEP’s:
+
+* * *
 
 ##### [PEP 628 -- Add math.tau](https://www.python.org/dev/peps/pep-0628/) 
 status: final!
@@ -95,7 +109,11 @@ Pull request [here](https://github.com/python/typing/issues/258)
 status: draft.
 PEP 492 introduced support for native coroutines and async / await syntax to Python 3.5. New PEP suggest extend Python's asynchronous capabilities by adding support for asynchronous generators.
 
+* * *
+
 ### Articles/Recourse's
+
+* * *
 
 ##### [dis — Python Bytecode Disassembler](https://pymotw.com/3/dis/)
 
@@ -157,7 +175,11 @@ Python 3d modeller in 500 lines
 ##### [Learn Python online – A curated list of courses on Python](http://bafflednerd.com/learn-python-online/)
 curated list of courses on Python from beginer to expert. Including pricing, course duration etc.
 
+* * *
+
 ### Video:
+
+* * *
 
 ##### [MicroPython: a journey from Kickstarter to Space](https://www.youtube.com/watch?v=Zm08hXeuv-I)
 
