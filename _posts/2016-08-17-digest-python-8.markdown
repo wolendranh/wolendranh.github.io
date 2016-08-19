@@ -51,19 +51,22 @@ The Django team is happy to announce the release of Django 1.10.
 
 ### PEP’s:
 
-[PEP 628 -- Add math.tau](https://www.python.org/dev/peps/pep-0628/) accepted
+##### [PEP 628 -- Add math.tau](https://www.python.org/dev/peps/pep-0628/) 
+accepted
 
-[PEP 526 -- Variable Declaration Syntax](https://www.python.org/dev/peps/pep-0526/)
+##### [PEP 526 -- Variable Declaration Syntax](https://www.python.org/dev/peps/pep-0526/)
 
-[PEP 525 -- Asynchronous Generators](https://www.python.org/dev/peps/pep-0525/)
+##### [PEP 525 -- Asynchronous Generators](https://www.python.org/dev/peps/pep0525/)
+
 
 ### Articles/Recourse's
 
-[A Container Is A Function Call](https://glyph.twistedmatrix.com/2016/08/defcontainer.html)
+##### [A Container Is A Function Call](https://glyph.twistedmatrix.com/2016/08/defcontainer.html)
 
-[The One Python Library Everyone Needs](https://glyph.twistedmatrix.com/2016/08/attrs.html)
+##### [The One Python Library Everyone Needs](https://glyph.twistedmatrix.com/2016/08/attrs.html)
 
-[Interactive Data Visualization of Geospatial Data using D3.js, DC.js, Leaflet.js and Python](http://adilmoujahid.com/posts/2016/08/interactive-data-visualization-geospatial-d3-dc-leaflet-python/)
+##### [Interactive Data Visualization of Geospatial Data using D3.js, DC.js, Leaflet.js and Python](http://adilmoujahid.com/posts/2016/08/interactive-data-visualization-geospatial-d3-dc-leaflet-python/)
+
 
 [Computational and Inferential Thinking The Foundations of Data Science](http://www.inferentialthinking.com/)
 
