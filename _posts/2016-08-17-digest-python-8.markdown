@@ -5,6 +5,7 @@ date:   2016-08-10 10:53:00
 disqus: false
 comments: false
 fbcomments: true
+fbcomments: yes
 
 categories: Intro
 ---
@@ -68,7 +69,6 @@ small progress bar library
 
 ##### [Research](https://github.com/commaai/research)
 he comma.ai driving dataset
-![Data set image](/assets/images/data-python.gif)
 
 ##### [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot)
 no comments
