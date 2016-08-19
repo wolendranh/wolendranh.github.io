@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Python digest #8"
-date:   2016-08-10 10:53:00
+date:   2016-08-18 10:53:00
 disqus: false
 comments: false
 fbcomments: true
