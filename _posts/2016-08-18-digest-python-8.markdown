@@ -188,6 +188,7 @@ control robot with Python
 repo - [uArm](https://github.com/apockill/uArmCreatorStudio/releases/tag/v1.0-beta)
 
 
+[![codi image](/assets/images/GitHub-Mark-32px.png)](https://github.com/wolendranh)
 
 [jekyll-gh]: https://github.com/wolendranh/jekyll
 [jekyll]:    http://jekyllrb.com
