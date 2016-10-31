@@ -8,14 +8,12 @@ fbcomments: true
 fbcomments: yes
 
 categories: Hate
-----------------
+---
 
 
 Hello  there! this will be a post full of cosmic hate.
-* * *
 
-### News:
-
+Article in progress...
 
 
 [jekyll-gh]: https://github.com/wolendranh/jekyll
