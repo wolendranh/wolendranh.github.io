@@ -136,6 +136,9 @@ some answers on Zed A. Shaw [article](https://learnpythonthehardway.org/book/nop
 
 ##### [Episode 85 – Plone with Eric Steele](https://www.podcastinit.com/episode-85-plone-with-eric-steele/)
 
+![codi image](/assets/images/python-1.png)
+![codi image](/assets/images/python2.png)
+
 
 [![codi image](/assets/images/GitHub-Mark-32px.png)](https://github.com/wolendranh)
 
